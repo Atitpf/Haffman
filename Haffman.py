@@ -1,3 +1,4 @@
+"""Кодировщик"""
 from collections import Counter
 
 text = list(input())

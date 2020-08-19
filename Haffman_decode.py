@@ -1,3 +1,4 @@
+"""Декодировщик"""
 a = input().split()
 x, y = int(a[0]), int(a[1])
 dichaff, vivod = {}, []
